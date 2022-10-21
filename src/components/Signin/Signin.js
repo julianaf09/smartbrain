@@ -27,7 +27,6 @@ const Signin = ({ onRouteChange }) => {
 				</div>
 			</main>
 		</article>
-		
   );
 }
 
