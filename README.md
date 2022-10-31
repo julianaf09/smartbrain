@@ -12,8 +12,8 @@ in the image. If a face is detected, a box will appear indicating where the face
 * Clarifai API (https://www.clarifai.com/)
 
 #### TODO
-- [ ] update Clarifai API
-- [ ] Connect Frontend to Backend
+- [x] update Clarifai API
+- [x] Connect Frontend to Backend
 - [x] implement face recognition
 - [x] fix logo location
 - [x] add signin and register page
