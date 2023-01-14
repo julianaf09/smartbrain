@@ -18,7 +18,7 @@ class Signin extends React.Component {
 	}
 
 	onSubmitSignIn = () => {
-		fetch('https://frozen-island-74142.herokuapp.com/signin', {
+		fetch('https://smartbrain3000.netlify.app/signin', {
 			method: 'post',
 			headers: {'Content-Type': 'application/json'},
 			body: JSON.stringify({
